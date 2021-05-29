@@ -80,7 +80,7 @@ Após a conclusão de cada etapa, execute:
 
 Para obter os resultados, execute:
 
-    List<Long> result = timer.getResult(t);
+    List<Long> result = timer.getResult("merge-sort");
 
 O método acima retornará uma lista com a duração de cada etapa, sendo que `result.get(0)` indicará
 a duração da primeira etapa (alocação), `result.get(1)` indicará a duração da segunda etapa (ordenação),
