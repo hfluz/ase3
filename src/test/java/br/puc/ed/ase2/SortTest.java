@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  * A execução dos testes 1 a 4 com sucesso valem valem 0,2 ponto cada.
- * Total: 4 * 0,2 = 2
+ * Total: 4 * 0,2 = 0,8
  *
  * @todo Executar testes para validar implementação dos algoritmos de ordenação.
  */
