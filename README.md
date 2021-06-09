@@ -127,136 +127,166 @@ trabalho for feito em grupo, ou 6 algoritmos a escolha do estudante caso seja fe
 
     QUANTIDADE NÚMEROS: 10000	 QUANTIDADE BUSCAS: 10000
                Algoritmo            Alocação           Ordenação               Busca               Total
-              sequencial                   2                   0                  49                  51
-                 binária                  94                   0                   4                  98
-             bubble-sort                   4                 463                   3                 470
-              merge-sort                   1                  36                   3                  40
-          arvore-binária                   5                   0                   3                   8
+              sequencial                   2                   0                   1                   3
+                 binária                  92                   0                   5                  97
+             bubble-sort                   4                 492                   4                 500
+              merge-sort                   0                  44                   2                  46
+              shell-sort                   0                  16                   2                  18
+              quick-sort                   1                   7                   2                  10
+          arvore-binária                   6                   0                   3                   9
                 hash-map                   4                   0                   1                   5
     
     QUANTIDADE NÚMEROS: 10000	 QUANTIDADE BUSCAS: 35000
                Algoritmo            Alocação           Ordenação               Busca               Total
-              sequencial                   1                   0                 118                 119
-                 binária                  79                   0                   7                  86
-             bubble-sort                   0                 426                   5                 431
-              merge-sort                   1                  11                   3                  15
-          arvore-binária                   3                   0                   9                  12
-                hash-map                   3                   0                   3                   6
+              sequencial                   1                   0                   2                   3
+                 binária                 108                   0                   6                 114
+             bubble-sort                   1                 407                   5                 413
+              merge-sort                   1                  15                   4                  20
+              shell-sort                   1                   3                   4                   8
+              quick-sort                   0                   3                   4                   7
+          arvore-binária                   2                   0                   7                   9
+                hash-map                   2                   0                   3                   5
     
     QUANTIDADE NÚMEROS: 10000	 QUANTIDADE BUSCAS: 60000
                Algoritmo            Alocação           Ordenação               Busca               Total
-              sequencial                   1                   0                 194                 195
-                 binária                  77                   0                   8                  85
-             bubble-sort                   1                 456                  11                 468
-              merge-sort                   0                   4                   5                   9
-          arvore-binária                   1                   0                  10                  11
-                hash-map                   1                   0                   3                   4
+              sequencial                   1                   0                   4                   5
+                 binária                  80                   0                   8                  88
+             bubble-sort                   0                 445                   7                 452
+              merge-sort                   0                   4                   7                  11
+              shell-sort                   0                   3                   6                   9
+              quick-sort                   0                   2                   6                   8
+          arvore-binária                   2                   0                  10                  12
+                hash-map                   1                   0                   4                   5
     
     QUANTIDADE NÚMEROS: 10000	 QUANTIDADE BUSCAS: 85000
                Algoritmo            Alocação           Ordenação               Busca               Total
-              sequencial                   0                   0                 277                 277
+              sequencial                   1                   0                   1                   2
                  binária                  79                   0                  11                  90
-             bubble-sort                   0                 400                   9                 409
-              merge-sort                   1                   5                   3                   9
-          arvore-binária                   2                   0                  12                  14
+             bubble-sort                   0                 442                  11                 453
+              merge-sort                   0                   6                  10                  16
+              shell-sort                   0                   2                  10                  12
+              quick-sort                   0                   1                  10                  11
+          arvore-binária                   2                   0                  11                  13
                 hash-map                   2                   0                   1                   3
     
     QUANTIDADE NÚMEROS: 10000	 QUANTIDADE BUSCAS: 110000
                Algoritmo            Alocação           Ordenação               Busca               Total
-              sequencial                   1                   0                 381                 382
-                 binária                  77                   0                  14                  91
-             bubble-sort                   1                 399                  12                 412
-              merge-sort                   1                   5                   5                  11
-          arvore-binária                   2                   0                  15                  17
-                hash-map                   1                   0                   1                   2
+              sequencial                   1                   0                   1                   2
+                 binária                  78                   0                  14                  92
+             bubble-sort                   0                 444                  13                 457
+              merge-sort                   0                   9                  12                  21
+              shell-sort                   0                   2                  12                  14
+              quick-sort                   0                   5                  12                  17
+          arvore-binária                   2                   0                  14                  16
+                hash-map                   2                   0                   1                   3
     
     QUANTIDADE NÚMEROS: 20000	 QUANTIDADE BUSCAS: 10000
                Algoritmo            Alocação           Ordenação               Busca               Total
-              sequencial                   1                   0                  68                  69
-                 binária                 368                   0                   2                 370
-             bubble-sort                   0                1808                   1                1809
-              merge-sort                   4                   8                   1                  13
-          arvore-binária                   4                   0                   1                   5
-                hash-map                   3                   0                   1                   4
+              sequencial                   1                   0                   0                   1
+                 binária                 463                   0                   2                 465
+             bubble-sort                   0                1940                   1                1941
+              merge-sort                   0                   8                   2                  10
+              shell-sort                   0                   5                   1                   6
+              quick-sort                   0                   3                   1                   4
+          arvore-binária                   4                   0                   2                   6
+                hash-map                   2                   1                   0                   3
     
     QUANTIDADE NÚMEROS: 20000	 QUANTIDADE BUSCAS: 35000
                Algoritmo            Alocação           Ordenação               Busca               Total
-              sequencial                   0                   0                 238                 238
-                 binária                 366                   0                   5                 371
-             bubble-sort                   0                1959                   5                1964
-              merge-sort                   0                   7                   2                   9
+              sequencial                   0                   0                   0                   0
+                 binária                 367                   0                   5                 372
+             bubble-sort                   0                1990                   5                1995
+              merge-sort                   0                   7                   5                  12
+              shell-sort                   0                   5                   5                  10
+              quick-sort                   0                   2                   5                   7
           arvore-binária                   3                   0                   5                   8
-                hash-map                   1                   0                   1                   2
+                hash-map                   1                   0                   0                   1
     
     QUANTIDADE NÚMEROS: 20000	 QUANTIDADE BUSCAS: 60000
                Algoritmo            Alocação           Ordenação               Busca               Total
-              sequencial                   0                   0                 405                 405
-                 binária                 372                   0                   9                 381
-             bubble-sort                   1                1790                   7                1798
-              merge-sort                   0                   7                   3                  10
+              sequencial                   0                   0                   0                   0
+                 binária                 370                   0                   9                 379
+             bubble-sort                   0                1922                   8                1930
+              merge-sort                   0                  12                   8                  20
+              shell-sort                   1                   5                   8                  14
+              quick-sort                   0                   3                   8                  11
           arvore-binária                   3                   0                   9                  12
-                hash-map                   0                   0                   1                   1
+                hash-map                   1                   0                   1                   2
     
     QUANTIDADE NÚMEROS: 20000	 QUANTIDADE BUSCAS: 85000
                Algoritmo            Alocação           Ordenação               Busca               Total
-              sequencial                   0                   0                 576                 576
-                 binária                 366                   0                  13                 379
-             bubble-sort                   0                1793                  11                1804
-              merge-sort                   0                  12                   4                  16
+              sequencial                   0                   0                   1                   1
+                 binária                 418                   0                  13                 431
+             bubble-sort                   1                1921                  12                1934
+              merge-sort                   0                  12                  12                  24
+              shell-sort                   0                   5                  12                  17
+              quick-sort                   0                   2                  12                  14
           arvore-binária                   3                   0                  13                  16
                 hash-map                   1                   0                   1                   2
     
     QUANTIDADE NÚMEROS: 20000	 QUANTIDADE BUSCAS: 110000
                Algoritmo            Alocação           Ordenação               Busca               Total
-              sequencial                   0                   0                 748                 748
-                 binária                 372                   0                  17                 389
-             bubble-sort                   0                2031                  17                2048
-              merge-sort                   0                  12                   6                  18
+              sequencial                   1                   0                   1                   2
+                 binária                 366                   0                  17                 383
+             bubble-sort                   0                1918                  15                1933
+              merge-sort                   1                  11                  16                  28
+              shell-sort                   0                   5                  15                  20
+              quick-sort                   0                   3                  15                  18
           arvore-binária                   3                   0                  17                  20
-                hash-map                   1                   0                   1                   2
+                hash-map                   0                   0                   2                   2
     
     QUANTIDADE NÚMEROS: 30000	 QUANTIDADE BUSCAS: 10000
                Algoritmo            Alocação           Ordenação               Busca               Total
-              sequencial                   1                   0                  95                  96
-                 binária                1237                   0                   2                1239
-             bubble-sort                   0                4660                   2                4662
-              merge-sort                   0                  18                   1                  19
-          arvore-binária                   5                   0                   1                   6
-                hash-map                   2                   0                   0                   2
+              sequencial                   0                   0                   0                   0
+                 binária                 882                   0                   2                 884
+             bubble-sort                   1                4591                   2                4594
+              merge-sort                   1                  19                   2                  22
+              shell-sort                   0                   9                   1                  10
+              quick-sort                   1                   4                   1                   6
+          arvore-binária                   5                   0                   2                   7
+                hash-map                   1                   0                   0                   1
     
     QUANTIDADE NÚMEROS: 30000	 QUANTIDADE BUSCAS: 35000
                Algoritmo            Alocação           Ordenação               Busca               Total
-              sequencial                   0                   0                 348                 348
-                 binária                 882                   0                   6                 888
-             bubble-sort                   1                5017                   6                5024
-              merge-sort                   0                  18                   2                  20
+              sequencial                   1                   0                   0                   1
+                 binária                 925                   0                   6                 931
+             bubble-sort                   0                4754                   6                4760
+              merge-sort                   0                  19                   5                  24
+              shell-sort                   1                  10                   5                  16
+              quick-sort                   1                   3                   6                  10
           arvore-binária                   5                   0                   6                  11
                 hash-map                   1                   0                   0                   1
     
     QUANTIDADE NÚMEROS: 30000	 QUANTIDADE BUSCAS: 60000
                Algoritmo            Alocação           Ordenação               Busca               Total
-              sequencial                   1                   0                 578                 579
-                 binária                1055                   0                  10                1065
-             bubble-sort                   0                4638                   9                4647
-              merge-sort                   1                  18                   3                  22
-          arvore-binária                   5                   0                  11                  16
+              sequencial                   1                   0                   0                   1
+                 binária                 985                   0                  10                 995
+             bubble-sort                   1                4594                  10                4605
+              merge-sort                   0                  19                   9                  28
+              shell-sort                   1                   9                  10                  20
+              quick-sort                   0                   4                   9                  13
+          arvore-binária                   5                   0                  10                  15
                 hash-map                   1                   0                   1                   2
     
     QUANTIDADE NÚMEROS: 30000	 QUANTIDADE BUSCAS: 85000
                Algoritmo            Alocação           Ordenação               Busca               Total
-              sequencial                   1                   0                 816                 817
-                 binária                 882                   0                  14                 896
-             bubble-sort                   1                4610                  13                4624
-              merge-sort                   1                  18                   4                  23
+              sequencial                   1                   0                   1                   2
+                 binária                1242                   0                  14                1256
+             bubble-sort                   1                4591                  13                4605
+              merge-sort                   1                  19                  13                  33
+              shell-sort                   1                   8                  12                  21
+              quick-sort                   1                   4                  12                  17
           arvore-binária                   5                   0                  15                  20
                 hash-map                   1                   0                   1                   2
     
     QUANTIDADE NÚMEROS: 30000	 QUANTIDADE BUSCAS: 110000
                Algoritmo            Alocação           Ordenação               Busca               Total
-              sequencial                   0                   0                1056                1056
-                 binária                 906                   0                  19                 925
-             bubble-sort                   1                4649                  17                4667
-              merge-sort                   0                  19                   5                  24
-          arvore-binária                   6                   0                  18                  24
-                hash-map                   2                   0                   6                   8
+              sequencial                   1                   0                   0                   1
+                 binária                 889                   0                  18                 907
+             bubble-sort                   0                4618                  17                4635
+              merge-sort                   0                  11                  16                  27
+              shell-sort                   1                   8                  16                  25
+              quick-sort                   0                   4                  16                  20
+          arvore-binária                   5                   0                  18                  23
+                hash-map                   1                   0                   1                   2
 
